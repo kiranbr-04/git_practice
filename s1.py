@@ -1,2 +1,2 @@
-print("hi Good morning!")
+print("hi Good morning! BYE")
 print("Whatsapp")
